@@ -1,12 +1,7 @@
-<div align="center">
-
-# Hello world!
-
-</div>
 
 <div align="center">
 
-## 👤 Nírio C. de Santos
+## 👤 Nírio Santos
 
 ## 👨‍💻 Developer Front-end
 
