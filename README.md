@@ -1,23 +1,46 @@
 
 <div align="center">
 
-## 👤 Nírio Santos
+## 👋 Bem-vindo ao meu GitHub
 
-## 👨‍💻 Developer Front-end
+
+# 👨‍💻 Developer Front-end
 
 </div>
+Olá! Eu sou Nírio Santos, um desenvolvedor apaixonado por tecnologia, programação e inovação. 🚀
+Aqui você vai encontrar projetos focados em desenvolvimento web, automação, bots para WhatsApp, APIs modernas e experiências criativas com código.
 
-Sou desenvolvedor front-end há 5 anos e comecei a tuar profissionalmente como desenvolvidor no ano de 2024, apaixonado por programação comecei a estudar desenvolvimento de website e bot's de WhatsApp, após terminar o ensino médio em medicina diagnóstica e terapêutica, sim, isso mesmo, sou estudante de medicina apaixonado por Ciência da Coputação, medicina e literaturas, tanto que tenho por lançar dois livros, um de Auto-ajuda e referênia e o outro de ficção!
+# 🚀 Objetivo
 
-Comecei a estudar programação desde muito cedo mas por causa das aulas de medicina quase não tinha tempo para me aprofundar. Após terminar o Médio decidi me focar em em ciência da computação com mais precisão e quem sabe mudo de curso na universidade.
+Estou constantemente aprendendo novas tecnologias e criando projetos que me ajudam a evoluir como desenvolvedor.
+Meu foco é construir aplicações modernas, úteis e bem estruturadas.
 
-fique à-vontade para melhor meus projetos ou participar deles.
+# 📚 Atualmente estudando
 
-Como sempre diz o meu meu cérebro: É melhor saber alguma coisa do que não saber nada! 😁
+- Arquitetura de software
+
+- Desenvolvimento Full Stack
+
+- Segurança e autenticação
+
+- Automação e inteligência artificial
+
+
+# 🌍 Conecte-se comigo
+
+Sinta-se à vontade para explorar meus repositórios, contribuir, dar sugestões ou simplesmente trocar ideias sobre tecnologia.
+
+“Transformando ideias em código, um projeto de cada vez.” ✨
+
+
+
+
+⭐ Não esqueça de deixar uma estrela nos projetos que gostar!
 
 <div align="center">
   
-## 🛠️ Technical Skills
+## 💻 Tecnologias & Ferramentas
+
 </div>
 
 ### 🎨 Front-end
